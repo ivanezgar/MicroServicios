@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 import es.edu.microservicios.Configuration.AplicationConfig;
 
 @RestController
+
+//commit branch
 public class HolaMundoRest {
 	
 	@Autowired
